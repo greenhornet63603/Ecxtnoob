@@ -16,3 +16,4 @@ emoji
 aiocron
 pyzipper
 python-dotenv
+Flask==3.0.3
