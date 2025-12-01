@@ -2,30 +2,30 @@ import os
 
 class Config(object):
     
-    BOT_TOKEN = "8087125389:AAFQm9W73dxk2H0rzZe87CSMQRijGbPfmU8"
+    BOT_TOKEN = "8040470417:AAGS6rwxeUjN2eOgfuqxKs0tOwvNtaXaMF0"
     
-    API_ID = 25933223
+    API_ID = 27400172
     
-    API_HASH = "6ef5a426d85b7f01562a41e6416791d3"
-    ADMIN_ID = [8118667253]
+    API_HASH = "56d0a75c5f9a9de6beb5452aa63c2d36"
+    ADMIN_ID = [7540570087]
     
-    DB_URL = "mongodb+srv://biklriplit:efaXfv2Ps9MRfner@cluster0.4hfu8zj.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+    DB_URL = "mongodb+srv://greenhornet63603:CvnxnjzknPLxYOfo@cluster0.qif4g18.mongodb.net/?appName=Cluster0"
     
-    DB_NAME = "MY_BOT_DB"
+    DB_NAME = "Cluster0"
     
-    TXT_LOG = -1002743806015
+    TXT_LOG = -1003475251323
     
-    AUTH_LOG = -1002743806015
+    AUTH_LOG = -1003475251323
     
-    HIT_LOG = -1002743806015
+    HIT_LOG = -1003475251323
     
-    DRM_DUMP = -1002743806015
+    DRM_DUMP = -1003475251323
     # Main channel ki ID
-    CHANNEL = -1002743806015
+    CHANNEL = -1003475251323
     # Channel ka link
-    CH_URL = "https://t.me/+aHEKrxF0el4yYzk1"
+    CH_URL = "https://t.me/luckynoobie"
     
-    OWNER = "https://t.me/+aHEKrxF0el4yYzk1"
+    OWNER = "https://t.me/the_dark_Vigilante"
     
     THUMB_URL = "https://tinypic.host/images/2025/02/07/IMG_20250207_224444_975.jpg" #Replace by with your Thumb URL
    
